@@ -1,6 +1,6 @@
 # 👋 Yo, I'm Bene (aka whsb3ne)
 
-🎓 Diploma in Computer Science student (Kenya) 
+🎓 Computer Science student (Kenya) 
 🔐 Passionate about Cybersecurity, Ethical Hacking, and Network Defense  
 🚀 Currently learning through:
 - Google Cybersecurity Professional Certificate (Coursera)
