@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Bene (aka whsb3ne)
+# 👋 Yo, I'm Benedict (aka whsb3ne)
 
 🎓 Computer Science student (Kenya) 
 🔐 Passionate about Cybersecurity, Ethical Hacking, and Network Defense  
@@ -15,10 +15,9 @@
 - Python scripting for automation  
 - Incident response & threat detection
 
-## 🧩 Projects & Repos
-- `google-cybersecurity-notes` → my course notes and takeaways  
+## 🧩 Projects & Repos 
 - `tryhackme-writeups` → lab walkthroughs and room analysis  
-- `python-for-security` → small security tools and scripts  
+- `rbac-system` → Personal project I'm working on  
 - `network-labs` → Wireshark captures and network diagrams  
 
 ## 🏅 Certifications (In Progress)
